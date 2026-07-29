@@ -7,6 +7,10 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=0-Perla-0.0-Perla-0" alt="visitors"/>
 <img src="https://img.shields.io/github/repo-size/0-Perla-0/0-Perla-0?color=blueviolet" alt="repo size"/>
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B57EDC&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Perla+%F0%9F%91%8B;Estudiante+de+la+UdeG+%F0%9F%8E%93;Me+gusta+el+desarrollo+web+%F0%9F%92%BB;Explorando+ciberseguridad+%F0%9F%94%90" alt="Typing SVG"/>
+
 </div>
 
 <br/>
@@ -60,6 +64,21 @@ Estudiante de la Universidad de Guadalajara 🎓. Me gusta explorar tecnologías
 
 <br/>
 
+## 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=0-Perla-0&show_icons=true&theme=dark" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-Perla-0&layout=compact&theme=dark" alt="Top Languages" width="45%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0-Perla-0&theme=dark" alt="Streak Stats"/>
+
+</div>
+
+<br/>
+
 ## 🌐 Conecta conmigo
 
 <div align="center">
@@ -76,5 +95,12 @@ Estudiante de la Universidad de Guadalajara 🎓. Me gusta explorar tecnologías
 <br/>
 
 <div align="center">
-  <i>Gracias por visitar mi perfil ✨</i>
+
+## 🐍 Mi actividad reciente
+
+<img src="https://raw.githubusercontent.com/0-Perla-0/0-Perla-0/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+<br/>
+
+<i>Gracias por visitar mi perfil ✨</i>
 </div>
