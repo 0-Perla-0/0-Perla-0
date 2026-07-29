@@ -15,9 +15,8 @@
 
 <br/>
 
-### 👋 ¡Hola! Soy Perla
-
-Estudiante de la Universidad de Guadalajara 🎓. Me gusta explorar tecnologías nuevas, aprender sobre desarrollo web, ciberseguridad y buenas prácticas de programación. Siempre en modo aprendizaje constante 🐾
+###  ¡BIENVENIDOS!
+Estudiante de Ingenieria Informática, 8 Semestre 🎓. Me gusta explorar tecnologías nuevas, aprender sobre desarrollo web, ciberseguridad y buenas prácticas de programación. Siempre en modo aprendizaje constante 🐾
 
 <br/>
 
@@ -64,20 +63,6 @@ Estudiante de la Universidad de Guadalajara 🎓. Me gusta explorar tecnologías
 
 <br/>
 
-## 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=0-Perla-0&show_icons=true&theme=dark" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-Perla-0&layout=compact&theme=dark" alt="Top Languages" width="45%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0-Perla-0&theme=dark" alt="Streak Stats"/>
-
-</div>
-
-<br/>
 
 ## 🌐 Conecta conmigo
 
@@ -96,11 +81,6 @@ Estudiante de la Universidad de Guadalajara 🎓. Me gusta explorar tecnologías
 
 <div align="center">
 
-## 🐍 Mi actividad reciente
-
-<img src="https://raw.githubusercontent.com/0-Perla-0/0-Perla-0/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-<br/>
 
 <i>Gracias por visitar mi perfil ✨</i>
 </div>
