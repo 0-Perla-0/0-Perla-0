@@ -61,21 +61,6 @@ Estudiante de la Universidad de Guadalajara 🎓. Me gusta explorar tecnologías
 
 <br/>
 
-## 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=0-Perla-0&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-Perla-0&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0-Perla-0&theme=radical&hide_border=true" alt="Streak Stats"/>
-
-</div>
-
-<br/>
-
 ## 🌐 Conecta conmigo
 
 <div align="center">
