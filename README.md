@@ -12,7 +12,7 @@
 
 <br/>
 
-### 👋 ¡Hola! Soy Perla
+###  ¡Hola! Soy Perla
 
 Estudiante de la Universidad de Guadalajara 🎓. Me gusta explorar tecnologías nuevas, aprender sobre desarrollo web, ciberseguridad y buenas prácticas de programación. Siempre en modo aprendizaje constante 🐾
 
