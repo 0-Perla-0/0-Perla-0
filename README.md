@@ -6,13 +6,12 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=0-Perla-0.0-Perla-0" alt="visitors"/>
 <img src="https://img.shields.io/github/repo-size/0-Perla-0/0-Perla-0?color=blueviolet" alt="repo size"/>
-<img src="https://img.shields.io/badge/dynamic/json?color=blueviolet&label=commits%20this%20month&query=%24.total&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3D0-Perla-0" alt="commits"/>
 
 </div>
 
 <br/>
 
-###  ¡Hola! Soy Perla
+### 👋 ¡Hola! Soy Perla
 
 Estudiante de la Universidad de Guadalajara 🎓. Me gusta explorar tecnologías nuevas, aprender sobre desarrollo web, ciberseguridad y buenas prácticas de programación. Siempre en modo aprendizaje constante 🐾
 
@@ -58,6 +57,21 @@ Estudiante de la Universidad de Guadalajara 🎓. Me gusta explorar tecnologías
 <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
 <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
 <img src="https://img.shields.io/badge/-Shodan-EE2761?style=flat-square&logo=shodan&logoColor=white" alt="Shodan"/>
+
+<br/>
+
+## 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=0-Perla-0&show_icons=true&theme=dark" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-Perla-0&layout=compact&theme=dark" alt="Top Languages" width="45%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0-Perla-0&theme=dark" alt="Streak Stats"/>
+
+</div>
 
 <br/>
 
